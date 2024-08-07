@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: red;
+}
+body>h1{
+  font-size: 50px;
+}
+header{
+  background-color: black;
+  margin-left: 32vw;
+  margin-right: 32vw;
+  border-radius: 30px;
+  
+}
+input{
+  margin: 10px;
+  justify-items: center;
+  width: 7vw;
+  height: 10vh;
+  border-radius: 20px;
+  font-size: 50px;
+  background-color: red;
+
+}
+.box{
+color: black;
+}
+.display{
+  width: 400px;
+  
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 20vh;
+    font-size: xx-large;
+}
+h1{
+    color: goldenrod;
+}
+#message-El{
+    padding-top: 3vh;
+    font-style: italic;
+}
+p{
+    font-size: xx-large;
+    color: white;
+    padding-bottom: 3vh;
+
+}
+button{
+    width: 150px;
+    color: #016f32;
+    background-color: goldenrod;
+    height: 50px;
+    font-size: x-large;
+    border: none;
+    border-radius: 5px;
+    
+}
+.new{
+    margin-top: 10px;
+}
